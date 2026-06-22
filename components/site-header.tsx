@@ -9,6 +9,7 @@ const navItems = [
   { label: "Gear", href: "#gear" },
   { label: "First Turns", href: "#turns" },
   { label: "Safety", href: "#safety" },
+  { label: "Lessons", href: "/lessons" },
 ]
 
 export function SiteHeader() {
